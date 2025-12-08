@@ -1,5 +1,11 @@
 # 2025-08 SDG13 Plant'X Website (可持续园艺平台)
 
+[![Frontend: Vue.js](https://img.shields.io/badge/Frontend-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![AI & Data: Python](https://img.shields.io/badge/AI%20%26%20Data-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Infrastructure: AWS](https://img.shields.io/badge/Infra-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.plantx.me%2F&up_message=Online&down_message=Offline&label=Live%20Demo)](https://www.plantx.me/)
+
 > 面向澳大利亚园艺爱好者的可持续种植与生态认知平台。项目通过三次迭代逐步实现：入门引导与植物检索、病害识别与气候适配推荐、濒危物种与气候趋势可视化，以及社区联结功能。
 
 ---
