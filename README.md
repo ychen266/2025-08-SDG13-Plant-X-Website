@@ -1,7 +1,12 @@
 # 2025-08 SDG13 Plant'X Website (Sustainable Gardening Platform)
 
-> A sustainable planting and ecological awareness platform for Australian gardening enthusiasts. The project was delivered over three iterations: onboarding & plant search, disease identification & climate-fit recommendations, endangered species & climate-trend visualizations, plus community connection features.
+[![Frontend: Vue.js](https://img.shields.io/badge/Frontend-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![AI & Data: Python](https://img.shields.io/badge/AI%20%26%20Data-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Infrastructure: AWS](https://img.shields.io/badge/Infra-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.plantx.me%2F&up_message=Online&down_message=Offline&label=Live%20Demo)](https://www.plantx.me/)
 
+> A sustainable planting and ecological awareness platform for Australian gardening enthusiasts. The project was delivered over three iterations: onboarding & plant search, disease identification & climate-fit recommendations, endangered species & climate-trend visualizations, plus community connection features.
 ---
 
 ## 📎 Links
